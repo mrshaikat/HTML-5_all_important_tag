@@ -1,3 +1,29 @@
+Html/www Discovered by Tim berners-lee
+
+i/em  b/strong  u/ins br del big small 
+
+sup sub script
+
+abbr -> alert
+
+address
+
+bdo -> bidirectional 
+mark
+
+h p
+
+q -> quation tags
+
+blockquote
+
+img 
+a 
+target="_blank"
+
+===========2nd class===========
+
+input
 -------------Input tag----------
 
 text
